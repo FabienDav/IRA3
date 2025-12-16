@@ -1,0 +1,473 @@
+[
+    {
+        "id": 1,
+        "brand": "Citroen",
+        "model": "C2",
+        "category": "Car",
+        "tarif": 50,
+        "state": "Used",
+        "historic": {
+            "01/01/25": {
+                "client_Id": 1,
+                "duree": 5
+            },
+            "20/01/25": {
+                "client_Id": 2,
+                "duree": 4
+            },
+            "22/02/25": {
+                "client_Id": 27,
+                "duree": 6
+            },
+            "09/09/05": {
+                "client_Id": 1,
+                "duree": 500
+            }
+        },
+        "profit": 25750
+    },
+    {
+        "id": 2,
+        "brand": "Citroen",
+        "model": "H VAN",
+        "category": "Truck",
+        "tarif": 100,
+        "state": "New",
+        "historic": {
+            "03/01/25": {
+                "client_Id": 2,
+                "duree": 4
+            },
+            "15/01/25": {
+                "client_Id": 1,
+                "duree": 5
+            },
+            "24/02/25": {
+                "client_Id": 28,
+                "duree": 4
+            }
+        },
+        "profit": 1300
+    },
+    {
+        "id": 3,
+        "brand": "Yamaha",
+        "model": "600 Diversion",
+        "category": "Motorcycle",
+        "tarif": 60,
+        "state": "Destroyed",
+        "historic": {
+            "10/01/25": {
+                "client_Id": 3,
+                "duree": 6
+            },
+            "05/01/25": {
+                "client_Id": 3,
+                "duree": 5
+            },
+            "25/02/25": {
+                "client_Id": 29,
+                "duree": 5
+            }
+        },
+        "profit": 960
+    },
+    {
+        "id": 4,
+        "brand": "Renault",
+        "model": "Clio IV",
+        "category": "Car",
+        "tarif": 45,
+        "state": "Used",
+        "historic": {
+            "05/01/25": {
+                "client_Id": 4,
+                "duree": 3
+            },
+            "27/02/25": {
+                "client_Id": 30,
+                "duree": 3
+            }
+        },
+        "profit": 270
+    },
+    {
+        "id": 5,
+        "brand": "Peugeot",
+        "model": "3008",
+        "category": "Car",
+        "tarif": 80,
+        "state": "New",
+        "historic": {
+            "10/01/25": {
+                "client_Id": 6,
+                "duree": 6
+            },
+            "28/02/25": {
+                "client_Id": 1,
+                "duree": 4
+            }
+        },
+        "profit": 800
+    },
+    {
+        "id": 6,
+        "brand": "Ford",
+        "model": "Focus",
+        "category": "Car",
+        "tarif": 55,
+        "state": "Used",
+        "historic": {
+            "12/01/25": {
+                "client_Id": 7,
+                "duree": 3
+            },
+            "02/03/25": {
+                "client_Id": 2,
+                "duree": 5
+            }
+        },
+        "profit": 440
+    },
+    {
+        "id": 7,
+        "brand": "Mercedes",
+        "model": "Actros",
+        "category": "Truck",
+        "tarif": 150,
+        "state": "Used",
+        "historic": {
+            "15/01/25": {
+                "client_Id": 8,
+                "duree": 5
+            },
+            "04/03/25": {
+                "client_Id": 3,
+                "duree": 6
+            }
+        },
+        "profit": 1650
+    },
+    {
+        "id": 8,
+        "brand": "Volvo",
+        "model": "FH16",
+        "category": "Truck",
+        "tarif": 180,
+        "state": "New",
+        "historic": {
+            "17/01/25": {
+                "client_Id": 9,
+                "duree": 4
+            },
+            "06/03/25": {
+                "client_Id": 4,
+                "duree": 4
+            }
+        },
+        "profit": 1440
+    },
+    {
+        "id": 9,
+        "brand": "MAN",
+        "model": "TGX",
+        "category": "Truck",
+        "tarif": 160,
+        "state": "Used",
+        "historic": {
+            "20/01/25": {
+                "client_Id": 10,
+                "duree": 6
+            },
+            "08/03/25": {
+                "client_Id": 6,
+                "duree": 5
+            }
+        },
+        "profit": 1760
+    },
+    {
+        "id": 10,
+        "brand": "Honda",
+        "model": "CB500F",
+        "category": "Motorcycle",
+        "tarif": 50,
+        "state": "New",
+        "historic": {
+            "22/01/25": {
+                "client_Id": 11,
+                "duree": 3
+            },
+            "10/03/25": {
+                "client_Id": 7,
+                "duree": 3
+            }
+        },
+        "profit": 300
+    },
+    {
+        "id": 11,
+        "brand": "Kawasaki",
+        "model": "Z900",
+        "category": "Motorcycle",
+        "tarif": 70,
+        "state": "Used",
+        "historic": {
+            "24/01/25": {
+                "client_Id": 12,
+                "duree": 5
+            },
+            "12/03/25": {
+                "client_Id": 8,
+                "duree": 6
+            }
+        },
+        "profit": 770
+    },
+    {
+        "id": 12,
+        "brand": "Suzuki",
+        "model": "GSX-R750",
+        "category": "Motorcycle",
+        "tarif": 90,
+        "state": "New",
+        "historic": {
+            "26/01/25": {
+                "client_Id": 13,
+                "duree": 4
+            },
+            "14/03/25": {
+                "client_Id": 9,
+                "duree": 4
+            }
+        },
+        "profit": 720
+    },
+    {
+        "id": 13,
+        "brand": "Harley-Davidson",
+        "model": "Iron 883",
+        "category": "Motorcycle",
+        "tarif": 85,
+        "state": "Used",
+        "historic": {
+            "28/01/25": {
+                "client_Id": 14,
+                "duree": 6
+            },
+            "16/03/25": {
+                "client_Id": 10,
+                "duree": 5
+            }
+        },
+        "profit": 935
+    },
+    {
+        "id": 14,
+        "brand": "Audi",
+        "model": "A3",
+        "category": "Car",
+        "tarif": 75,
+        "state": "New",
+        "historic": {
+            "30/01/25": {
+                "client_Id": 15,
+                "duree": 3
+            },
+            "18/03/25": {
+                "client_Id": 11,
+                "duree": 6
+            }
+        },
+        "profit": 675
+    },
+    {
+        "id": 15,
+        "brand": "BMW",
+        "model": "X1",
+        "category": "Car",
+        "tarif": 90,
+        "state": "Used",
+        "historic": {
+            "31/01/25": {
+                "client_Id": 16,
+                "duree": 5
+            },
+            "20/03/25": {
+                "client_Id": 12,
+                "duree": 4
+            }
+        },
+        "profit": 810
+    },
+    {
+        "id": 16,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "category": "Car",
+        "tarif": 120,
+        "state": "New",
+        "historic": {
+            "02/02/25": {
+                "client_Id": 17,
+                "duree": 6
+            },
+            "22/03/25": {
+                "client_Id": 13,
+                "duree": 5
+            }
+        },
+        "profit": 1320
+    },
+    {
+        "id": 17,
+        "brand": "Renault",
+        "model": "Master",
+        "category": "Truck",
+        "tarif": 140,
+        "state": "Used",
+        "historic": {
+            "04/02/25": {
+                "client_Id": 18,
+                "duree": 4
+            },
+            "24/03/25": {
+                "client_Id": 14,
+                "duree": 3
+            }
+        },
+        "profit": 980
+    },
+    {
+        "id": 18,
+        "brand": "DAF",
+        "model": "XF",
+        "category": "Truck",
+        "tarif": 170,
+        "state": "New",
+        "historic": {
+            "06/02/25": {
+                "client_Id": 19,
+                "duree": 5
+            },
+            "26/03/25": {
+                "client_Id": 15,
+                "duree": 6
+            }
+        },
+        "profit": 1870
+    },
+    {
+        "id": 19,
+        "brand": "Scania",
+        "model": "R500",
+        "category": "Truck",
+        "tarif": 190,
+        "state": "Used",
+        "historic": {
+            "08/02/25": {
+                "client_Id": 20,
+                "duree": 3
+            },
+            "28/03/25": {
+                "client_Id": 16,
+                "duree": 4
+            }
+        },
+        "profit": 1330
+    },
+    {
+        "id": 20,
+        "brand": "Yamaha",
+        "model": "MT-07",
+        "category": "Motorcycle",
+        "tarif": 65,
+        "state": "New",
+        "historic": {
+            "10/02/25": {
+                "client_Id": 21,
+                "duree": 6
+            },
+            "30/03/25": {
+                "client_Id": 17,
+                "duree": 5
+            }
+        },
+        "profit": 715
+    },
+    {
+        "id": 21,
+        "brand": "KTM",
+        "model": "Duke 890",
+        "category": "Motorcycle",
+        "tarif": 85,
+        "state": "New",
+        "historic": {
+            "12/02/25": {
+                "client_Id": 22,
+                "duree": 4
+            }
+        },
+        "profit": 340
+    },
+    {
+        "id": 22,
+        "brand": "Ducati",
+        "model": "Monster",
+        "category": "Motorcycle",
+        "tarif": 95,
+        "state": "Used",
+        "historic": {
+            "14/02/25": {
+                "client_Id": 23,
+                "duree": 5
+            }
+        },
+        "profit": 475
+    },
+    {
+        "id": 23,
+        "brand": "Honda",
+        "model": "Civic",
+        "category": "Car",
+        "tarif": 60,
+        "state": "Used",
+        "historic": {
+            "16/02/25": {
+                "client_Id": 24,
+                "duree": 6
+            }
+        },
+        "profit": 360
+    },
+    {
+        "id": 24,
+        "brand": "Peugeot",
+        "model": "208",
+        "category": "Car",
+        "tarif": 50,
+        "state": "New",
+        "historic": {
+            "18/02/25": {
+                "client_Id": 25,
+                "duree": 4
+            }
+        },
+        "profit": 200
+    },
+    {
+        "id": 25,
+        "brand": "Mercedes",
+        "model": "Sprinter",
+        "category": "Truck",
+        "tarif": 130,
+        "state": "New",
+        "historic": {
+            "20/02/25": {
+                "client_Id": 26,
+                "duree": 5
+            }
+        },
+        "profit": 650
+    }
+]
