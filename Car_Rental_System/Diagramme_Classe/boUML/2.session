@@ -1,0 +1,13 @@
+window_sizes 1920 1057 450 1465 907 104
+
+diagrams
+  active  classdiagram_ref 128002 // Class_diagram
+    1172 724 200 A4 0 0
+end
+show_stereotypes
+selected attribute_ref 136194 // profit
+open
+  class_ref 128002 // Vehicule
+  class_ref 128130 // Customer
+end
+end
