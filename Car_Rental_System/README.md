@@ -1,6 +1,6 @@
-Car Rental System :
-1 - Program
-    CarRentalSystem.py est l'application
+Car Rental System :  
+1 - Program  
+    CarRentalSystem.py est l'application  
     *.wav sont les sons de l'application, ilsdoivent être dans le même dossier que le fichier .py
     L'application a un Login
         User : root
@@ -13,4 +13,5 @@ Car Rental System :
 
 2 - Diagramme_Classe
     Diagramme de classe UML du programme CarRentalSystem.py en .prj (ouvrable sur BOUML)
+
     Diagramme de classe UML du programme CarRentalSystem.py en .png
